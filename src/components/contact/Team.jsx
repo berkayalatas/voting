@@ -28,7 +28,7 @@ const Team = () => {
               {teamData.map((card, index) => (
                 <div
                   key={index}
-                  className="col-12 col-sm-12 col-md-6 col-lg-6"
+                  className="col-6 col-sm-12 col-md-6 col-lg-4"
                 >
                   <div className="our-team">
                     <div className="picture">

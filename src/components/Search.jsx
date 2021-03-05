@@ -1,10 +1,7 @@
 import React, { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import Typography from "@material-ui/core/Typography";
-import Grid from "@material-ui/core/Grid";
 import CompanyCards from "./company/CompanyCards";
-import Pagination from "@material-ui/lab/Pagination";
-import { Divider, Box } from "@material-ui/core";
 import fakeData from '../data/fakeData'
 
 
@@ -37,7 +34,7 @@ export default function Search(props) {
         {q.charAt(0).toUpperCase() + q.slice(1)}
         <br/>
         <br/>
-        {currentCards.length>0?"":"Maalesef öyle bir şirket bulamadık :("}
+        {currentCards.length>0?"":"Unfortunately, We could no find your search :("}
       </Typography>
 
       {/* Map Company Cards */}

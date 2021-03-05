@@ -78,10 +78,6 @@
  
     "About" : [
         {
-         "title" : "VOTING Hakkında",
-         "text" :"KODLUYORUZ’un “teknolojiye hazırlanan bir gençlik ve daha iyi bir gelecek” çağrısını duymuş ve Adana Full Stack Web Development Bootcamp’inde yolları kesişen kendini geliştirmek isteyen bir ekibiz."
-        },
-        {
         "title" :"VOTING Nedir ? ",
         "text" : "Şirket oylama uygulaması olarak adlandırabiliriz.Sosyal medya da çalışanların şirketler hakkında yorumlarını ya da yakınımızda olan insanların şirketlerinden memnun olmadıklarını duyduk. Belkide o şirkete girmek için çok çalıştı çok emek sarfetti memnun kalamayacağını düşünemedi ya da orada çalışanlardan bilgi alamadı. Bizde tam olarak bu sorunu ele alarak o şirketin çalışma koşullarından, çalışan haklarını ne kadar gözettiğine kadar bazı sorular hazırlayarak daha önceden çalışmış ya da hala çalışmakta olan insanlardan çalıştığı şirketler hakkında yıldızlarla puan vermesini sağlayarak oraya girmek isteyen kişilere bir nebzede olsun yardımcı olmak istedik."
         },

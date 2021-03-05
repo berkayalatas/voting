@@ -1,7 +1,6 @@
 import kader from "../assets/images/kader.png"
 import berkay from "../assets/images/berkay.png"
 import furkan from "../assets/images/furkan.png"
-import gulfidan from "../assets/images/gulfidan.png"
 
 const teamData = [
     {
@@ -20,15 +19,6 @@ const teamData = [
         job: "Front-End Developer",
         linkedin:"https://www.linkedin.com/in/berkayalatas/",
         github:"https://github.com/berkayalatas"
-    },
-
-    {
-        id:4,
-        avatar:gulfidan,
-        name: "Gülfidan Söylemez",
-        job: "Front-End Developer",
-        linkedin: "https://www.linkedin.com/in/gülfidan-söylemez-917794202/",
-        github:"https://github.com/nadiflug"
     },
 
     {
