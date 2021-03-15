@@ -61,4 +61,5 @@ Clone down this repository. You will need node and npm installed globally on you
 ![1](https://user-images.githubusercontent.com/59448862/109431061-a2d98b80-7a15-11eb-9b96-d7f57194d146.PNG)
 ![2](https://user-images.githubusercontent.com/59448862/109431062-a2d98b80-7a15-11eb-960a-503f3db70e4d.PNG)
 ![3](https://user-images.githubusercontent.com/59448862/109431063-a3722200-7a15-11eb-85d5-df38d7c7094d.PNG)
-![4](https://user-images.githubusercontent.com/59448862/109431059-a1a85e80-7a15-11eb-848f-88b0d6f989d4.PNG)
+![4](https://user-images.githubusercontent.com/59448862/111215027-b6731d80-85e3-11eb-828f-8dc7ddb982b5.png)
+
